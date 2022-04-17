@@ -7,6 +7,7 @@ const App= () =>{
         <div className='App'> 
          <header className="App-header">
          <img src={logo} className="App-logo" alt="logo" />
+         <span className='salah'>SALAH</span>
          <ul className='navbar'>
            <li>Home</li>
            <li>Services</li>
