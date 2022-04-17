@@ -15,7 +15,7 @@ const App= () =>{
            <li>Contact</li>
          </ul>
          </header>   
-         <h1 className='hello'> Hello React</h1>
+         <h1 className='hello'>React App for Training.</h1>
          <div className='pfooter'>
            <h2>Designed By SalahAbuHmaid</h2>
            <p>All Rights Recieved</p>
